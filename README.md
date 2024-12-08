@@ -1,3 +1,6 @@
+Proyecto de React para Alura Latam
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
